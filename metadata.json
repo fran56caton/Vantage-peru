@@ -1,0 +1,7 @@
+{
+  "name": "VANTAGE - Estandarización Cromática",
+  "description": "Sistema de trazabilidad y estandarización cromática en origen para algodón nativo sostenible.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
